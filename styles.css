@@ -48,6 +48,7 @@ body {
     flex-direction: column;
     cursor: pointer;
     gap: 5px;
+    border-radius: 25%;
 }
 
 .hamburger span {
@@ -705,5 +706,6 @@ li :hover {
         .contactContainer {
     grid-template-columns: 1fr;
 }
+
 
 }
