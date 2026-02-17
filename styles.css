@@ -48,7 +48,6 @@ body {
     flex-direction: column;
     cursor: pointer;
     gap: 5px;
-    border-radius: 25%;
 }
 
 .hamburger span {
@@ -624,6 +623,7 @@ li :hover {
     padding: 10px 0;
     position: absolute;
     right: 0;
+    border-bottom-left-radius: 10%
     box-shadow: #22527E 0px 0 -6px -2px, #22527E 0 0 -5px -2px;
 }
 
@@ -709,3 +709,4 @@ li :hover {
 
 
 }
+
